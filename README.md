@@ -27,7 +27,7 @@ Tools: Postman, Git, GitHub, Vite, VS Code, Netlify
 ```
 
 
-🏆 Highlights
+🏆 Highlights <br/>
 👨‍💻 Ex-Intern at RightShift Infotech (Web Development)
 
 🧠 Full Stack Developer at E-Cell, SCOE
@@ -43,11 +43,11 @@ Also, It’s either 1 or 0 – no in between 😄
 
 
 
-   ```markdown
+<br/>
    ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam97D&show_icons=true&theme=radical)
    ![GitHub Streak](https://streak-stats.demolab.com?user=Shivam97D&theme=radical)
 
-```
+
 
 ---
 
